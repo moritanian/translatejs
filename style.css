@@ -1,0 +1,17 @@
+.translate-component {
+	width: 100%;
+}
+.input-text-area {
+	width: 100%;
+	height: 200px;
+}
+
+.output-text-area {
+	height: 500px;
+	width : 50%;
+	border: solid 1px;
+	font-size: 12px;
+	overflow: scroll;
+	background-color: white;
+    padding: 10px;
+}
